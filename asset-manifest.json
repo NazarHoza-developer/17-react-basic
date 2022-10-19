@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/17-react-basic/static/css/main.e90f74c6.css",
+    "main.js": "/17-react-basic/static/js/main.b177f759.js",
+    "static/js/561.00a8311a.chunk.js": "/17-react-basic/static/js/561.00a8311a.chunk.js",
+    "static/media/stickers-wasted.jpg": "/17-react-basic/static/media/stickers-wasted.d1b27c1a64d0ec604d4a.jpg",
+    "index.html": "/17-react-basic/index.html",
+    "main.e90f74c6.css.map": "/17-react-basic/static/css/main.e90f74c6.css.map",
+    "main.b177f759.js.map": "/17-react-basic/static/js/main.b177f759.js.map",
+    "561.00a8311a.chunk.js.map": "/17-react-basic/static/js/561.00a8311a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e90f74c6.css",
+    "static/js/main.b177f759.js"
+  ]
+}
